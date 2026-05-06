@@ -23,6 +23,20 @@ Me chamo Gabriel Brocanelli, tenho 22 anos e sou natural de São Paulo. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+        align="left" 
+    alt="Claude IA" 
+    title="Claude IA"
+    width="30px" 
+    style="padding-right: 10px;"
+        width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>
+<img 
+         align="left" 
+    alt="Chat GPT" 
+    title="Chat GPT"
+    width="30px" 
+    style="padding-right: 10px;"
+        width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>
 
 <br/>
 <br/>
