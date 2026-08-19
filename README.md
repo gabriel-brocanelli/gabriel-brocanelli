@@ -36,7 +36,7 @@ Me chamo Gabriel Brocanelli, tenho 23 anos e sou natural de São Paulo. Concluí
     title="Chat GPT"
     width="30px" 
     style="padding-right: 10px;"
-        width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>
+        width="50" height="50" src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=FFFFFF"/>
 <img 
          align="left" 
     alt="Git" 
