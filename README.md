@@ -37,7 +37,20 @@ Me chamo Gabriel Brocanelli, tenho 23 anos e sou natural de São Paulo. Concluí
     width="30px" 
     style="padding-right: 10px;"
         width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>
-
+<img 
+         align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;"
+        width="50" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+<img 
+         align="left" 
+    alt="n8n" 
+    title="n8n"
+    width="30px" 
+    style="padding-right: 10px;"
+        width="50" height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/n8n.png"/>
 <br/>
 <br/>
 
